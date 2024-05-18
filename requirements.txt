@@ -2,3 +2,4 @@ Flask==2.0.2
 Flask-WTF==0.15.1
 SQLAlchemy==1.4.31
 pytest==6.2.5
+Werkzeug==2.0.3  # Adding this to ensure compatibility with Flask 2.0.2
